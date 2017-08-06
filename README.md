@@ -6,21 +6,21 @@
 
 Copy and paste (one by one) commands below in the Linux terminal:
 
-1. `sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev`
-2. `gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3`
-3. `curl -sSL https://get.rvm.io | bash -s stable`
-4. `source ~/.rvm/scripts/rvm`
-5. `rvm install 2.4.0`
-6. `rvm use 2.4.0 --default`
+* `sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev`
+* `gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3`
+* `curl -sSL https://get.rvm.io | bash -s stable`
+* `source ~/.rvm/scripts/rvm`
+* `rvm install 2.4.0`
+* `rvm use 2.4.0 --default`
 
 ## Install Rails
 
 Copy and paste (one by one) commands below in the Linux terminal:
 
-1. `sudo apt-get install curl`
-2. `curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -`
-3. `sudo apt-get install -y nodejs`
-4. `gem install rails -v 5.1.1`
+* `sudo apt-get install curl`
+* `curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -`
+* `sudo apt-get install -y nodejs`
+* `gem install rails -v 5.1.1`
 
 Different ways of installation ROR (for different OS) you can find [here](https://gorails.com/setup/ubuntu/15.04).
 
@@ -29,10 +29,10 @@ Different ways of installation ROR (for different OS) you can find [here](https:
 
 Copy and paste (one by one) commands below in the Linux terminal:
 
-1. `git init`
-2. `git clone https://github.com/VladyslavKovalenko/cucumber.git`
-3. `bundle install`
-4. `cucumber --init`
+* `git init`
+* `git clone https://github.com/VladyslavKovalenko/cucumber.git`
+* `bundle install`
+* `cucumber --init`
 
 
 
@@ -57,11 +57,10 @@ Copy and paste (one by one) commands below in the Linux terminal:
 
     `source ~/.bashrc`
 
-
 6. Download & install the latest version of **Mozilla Firefox** browser. Instructions you can find by following [this link](http://libre-software.net/how-to-install-firefox-on-ubuntu-linux-mint/).
 
 ## Run a Simple Test
 
 Copy and paste the following command in the Linux terminal:
 
-    `cucumber ~/path_to_your_project/features/first_test.feature`
+    cucumber ~/path_to_your_project/features/first_test.feature
