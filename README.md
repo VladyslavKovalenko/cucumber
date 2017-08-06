@@ -64,4 +64,4 @@ Copy and paste (one by one) commands below in the Linux terminal:
 
 Copy and paste the following command in the Linux terminal:
 
-    `cucumber ~/path_to_your_project/features/first_test.feature
+    `cucumber ~/path_to_your_project/features/first_test.feature`
